@@ -1,0 +1,27 @@
+{
+  "name": "shopify-phoenix",
+  "version": "0.0.3",
+  "description": "Shopify theme asset interaction library and management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "theme-configure": "./theme-configure",
+    "theme-manipulate": "./theme-manipulate",
+    "theme-watch": "./theme-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csaunders/phoenix"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "Christopher Saunders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csaunders/phoenix/issues"
+  },
+  "homepage": "https://github.com/csaunders/phoenix"
+}
